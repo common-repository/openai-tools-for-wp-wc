@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-10-01 12:00+0000\n"
+"PO-Revision-Date: 2023-10-01 12:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "AI Tools"
+msgstr "AI 工具"
+
+msgid "AI Tools Settings"
+msgstr "AI Tools 设置"
+
+msgid "Product Feeds"
+msgstr "产品 Feeds"
+
+msgid "Review Feeds"
+msgstr "评价 Feeds"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+msgid "Product Feeds for Google Merchant Center"
+msgstr "GMC 产品 Feeds"
+
+msgid "Include Variations"
+msgstr "包括变体"
+
+msgid "Exclude Categories"
+msgstr "排除类目"
+
+msgid "Exclude Products"
+msgstr "排除产品"
+
+msgid "Review Feeds for Google Merchant Center"
+msgstr "GMC 评价 Feeds"
+
+msgid "Generate Feed"
+msgstr "生成 Feed"
+
+msgid "Generating XML feed..."
+msgstr "正在生成 XML feed..."
+
+msgid "Open XML Feed Url"
+msgstr "打开 XML Feed 链接"
+
+msgid "Search for products..."
+msgstr "搜索产品..."
+
+msgid "Save Settings"
+msgstr "保存设置"
+
+msgid "Preferance"
+msgstr "偏好设置"
+
+msgid "Default Language"
+msgstr "默认语言"
+
+msgid "Disable Webhook Deliver Async"
+msgstr "禁用 Webhook 异步传递"
+
+msgid "Checked for %s instant order notification"
+msgstr "勾选可启用 %s 即时订单通知"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Enable XML Feeds Generator"
+msgstr "启用 XML Feeds 生成器"
+
+msgid "Generate product feeds and review feeds"
+msgstr "生成产品 Feeds 和评价 Feeds"
+
+msgid "AI Reviewer"
+msgstr "AI 评价家"
+
+msgid "AI Commenter"
+msgstr "AI 评论家"
+
+msgid "Debugging Logs"
+msgstr "调试日志"
